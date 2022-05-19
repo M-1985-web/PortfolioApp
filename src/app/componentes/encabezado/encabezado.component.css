@@ -1,0 +1,42 @@
+/*input-group*lead*lead-content*/
+.input-group {
+    margin-left: 20%;
+}
+h1 {
+    margin-bottom: 20px;
+}
+
+h1,h4,h5,h6 {
+    color: rgb(236, 230, 241);
+    
+}
+
+#lead {
+    word-wrap: break-word;
+    
+    
+
+
+    position:relative;
+    height:100vh;
+    min-height:700px;
+    max-height:50px;
+    background-size:cover;
+    background-color: rgb(31, 3, 77);
+    padding:15px;
+    overflow:hidden;
+    margin-top: 50px;
+    margin-left: 5px;
+    margin-right: 0.5em;
+    
+}
+
+#lead-content {
+    position:absolute;
+    z-index:10;top:50%;
+    left:50%;
+    transform:translate(-50%, -50%);
+    text-align:center;
+    color: rgb(127, 18, 228);
+    
+}

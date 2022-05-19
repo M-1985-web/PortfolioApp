@@ -1,0 +1,9 @@
+/*id="experience", id="titulo-experiencia", class="education-block", */
+.titulo-experiencia {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.education-block {
+    background-color: black;
+}

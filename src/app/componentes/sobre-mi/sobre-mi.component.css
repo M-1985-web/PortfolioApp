@@ -1,0 +1,20 @@
+/*sobre-mi-titulo, color-parrafo,.imagen-Humaaans*/
+.sobre-mi-titulo {
+    text-align: center;
+    color: rgb(10, 1, 1);
+    
+}
+
+#color-parrafo {
+    color: rgba(0, 0, 0, 0.935);
+    margin-left: 5px;
+    margin-bottom: 15px;
+    word-wrap:break-word;
+}
+
+/*esta imagen aun no esta reflejada en la app*/
+.imagen-Humaaans {
+    margin-top: 25px;
+    margin-bottom: 15px;
+    text-align: center;
+}
